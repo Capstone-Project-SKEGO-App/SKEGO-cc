@@ -103,6 +103,10 @@ DB_PORT=(DB_PORT)               # Port MySQL
    ```bash
    npm start index.js
    ```
+   or
+   ```bash
+   node index.js
+   ```
 
 ---
 
