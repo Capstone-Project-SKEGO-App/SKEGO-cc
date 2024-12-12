@@ -3,14 +3,15 @@
 ## ✨ **Team Profile**
 **Team ID**: **C242-PS022**
 
-Team Member Names **Skego**:
-- **(ML)** M284B4KX0441 – Alya Saphira – *Universitas Negeri Surabaya* 
-- **(ML)** M284B4KX3366 – Nidya Aulia Adji Putri – *Universitas Negeri Surabaya* 
-- **(ML)** M296B4KX0362 – Alfina Andriani – *Universitas Pembangunan Nasional “Veteran” Jawa Timur*
-- **(CC)** C296B4KX0104 – Adinda Wira Zahra Tsabitah – *Universitas Pembangunan Nasional “Veteran” Jawa Timur* 
-- **(CC)** C296B4KY1591 – Gastin Alfiansa – *Universitas Pembangunan Nasional Veteran Jawa Timur*  
-- **(MD)** A296B4KX4568 – Yumna Kamilah Mahdiyah – *Universitas Pembangunan Nasional Veteran Jawa Timur*  
-- **(MD)** A345B4KY2231 – Krisna Fajar Fahtur Rohman – *University of 17 Agustus 1945 Surabaya*
+| **Role** | **Member ID**   | **Name**                            | **University**                                                          |
+|----------|-----------------|-------------------------------------|-------------------------------------------------------------------------|
+| **ML**   | M284B4KX0441     | Alya Saphira                        | Universitas Negeri Surabaya                                            |
+| **ML**   | M284B4KX3366     | Nidya Aulia Adji Putri              | Universitas Negeri Surabaya                                            |
+| **ML**   | M296B4KX0362     | Alfina Andriani                      | Universitas Pembangunan Nasional “Veteran” Jawa Timur                   |
+| **CC**   | C296B4KX0104     | Adinda Wira Zahra Tsabitah          | Universitas Pembangunan Nasional “Veteran” Jawa Timur                   |
+| **CC**   | C296B4KY1591     | Gastin Alfiansa                      | Universitas Pembangunan Nasional Veteran Jawa Timur                     |
+| **MD**   | A296B4KX4568     | Yumna Kamilah Mahdiyah              | Universitas Pembangunan Nasional Veteran Jawa Timur                     |
+| **MD**   | A345B4KY2231     | Krisna Fajar Fahtur Rohman          | University of 17 Agustus 1945 Surabaya                                  |
 
 ---
 
@@ -43,8 +44,7 @@ Below is the architecture design for Skego's backend, which leverages Google Clo
 
 ## 📊 **API Documentation**
 
-### Localhost URL: `http://localhost:3000`
-### Cloud RUN URL: `https://backend-skego-619804298613.asia-southeast2.run.app`
+### Localhost URL: `http://localhost:3000``
 
 #### **Endpoints**:
 
