@@ -90,7 +90,7 @@ DB_PORT=(DB_PORT)               # Port MySQL
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/skego-backend.git](https://github.com/Capstone-Project-SKEGO-App/SKEGO-cc.git
+   git clone https://github.com/Capstone-Project-SKEGO-App/SKEGO-cc.git
    cd skego-backend
    ```
 
